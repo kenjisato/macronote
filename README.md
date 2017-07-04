@@ -1,0 +1,2 @@
+# macronote
+Notes on macroeconomics
