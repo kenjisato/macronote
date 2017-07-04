@@ -1,0 +1,6 @@
+[
+["index.html", "マクロ経済学 Preface", " マクロ経済学 佐藤健治 Preface Start writing your book here. If you are in RStudio, Click the Build button to build the book. "],
+["introduction.html", "1 Introduction", " 1 Introduction "],
+["data.html", "2 データ取得先", " 2 データ取得先 e-Stat 政府統計の総合窓口 内閣府 GDP 資本ストック 機械受注 景気動向指数 消費動向調査（消費者態度指数） 経済産業省 鉱工業生産・在庫・出荷指数 第3次産業活動指数 全産業活動指数 財務省 貿易統計 法人企業統計（経常利益，設備投資） 国際収支統計 厚生労働省 毎月勤労統計月報（現金給与総額） 職業紹介統計（有効求人倍率） 春闘賃上げ率 総務省統計局 労働力調査（労働力人口，失業者数） 家計調査 消費者物価指数 国土交通省 建設経済統計 日本銀行 金融経済統計（マネーストック，貸出金利，コールレート） 国内企業物価 短観（業況判断DI等） "],
+["references.html", "# References", " # References "]
+]

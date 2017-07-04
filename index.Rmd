@@ -1,0 +1,11 @@
+---
+title: "マクロ経済学"
+author: "佐藤健治"
+site: bookdown::bookdown_site
+documentclass: book
+---
+
+# Preface {-}
+
+Start writing your book here. If you are in RStudio,
+Click the Build button to build the book.
